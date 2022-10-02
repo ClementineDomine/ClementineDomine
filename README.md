@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @ClementineDomine
 
 I am pursuing a Ph.D. program at The Gatsby Computational Neuroscience Unit under the supervision of
-Andrew SAXE and my ambition is to embrace a research career in computational neuroscience. 
+Andrew SAXE and Caswell Barry my ambition is to embrace a research career in computational neuroscience. 
 I have a master's degree in Theoretical Physics from the University of Manchester (UK).
 
 # 🗞️ Publications and Posters
