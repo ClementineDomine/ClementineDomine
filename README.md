@@ -11,7 +11,7 @@ Paper Available upon request until offical NeurIPS Publication.
 Poster: https://drive.google.com/file/d/1UGldSioX_nrCiFeeEiV0cdHlRZb0zSSy/view?usp=sharing
 
 
- Implement an unsupervised point process model for replay detection of motor sequences in the dorsolateral striatum. 
+- Implement an unsupervised point process model for replay detection of motor sequences in the dorsolateral striatum. 
   Revealed first evidence for off-line consolidation of procedural memory in the dorsolateral striatum.
  Poster: https://drive.google.com/file/d/1lrTJrj3aGA_D3qDV4HNQCPv8NswaA2Qt/view?usp=sharing
 
