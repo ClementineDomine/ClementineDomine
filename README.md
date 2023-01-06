@@ -7,8 +7,7 @@ I have a master's degree in Theoretical Physics from the University of Mancheste
 # 🗞️ Publications and Posters
 
 - Accepted Neurips (2022) Exact learning dynamics of in Deep Linear Neural Network with Prior Knowledge. 
-Paper Available upon request until offical NeurIPS Publication.
-Poster: https://drive.google.com/file/d/1UGldSioX_nrCiFeeEiV0cdHlRZb0zSSy/view?usp=sharing
+Paper: https://openreview.net/forum?id=58ohTfbDth
 
 
 - Implement an unsupervised point process model for replay detection of motor sequences in the dorsolateral striatum. 
