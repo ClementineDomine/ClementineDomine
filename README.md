@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ClementineDomine
+# 🍊 Hi, I’m @ClementineDomine 🍊
 
 I am pursuing a Ph.D. program at The Gatsby Computational Neuroscience Unit under the supervision of
 Andrew SAXE and Caswell Barry my ambition is to embrace a research career in computational neuroscience. 
