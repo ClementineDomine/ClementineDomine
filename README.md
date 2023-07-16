@@ -12,13 +12,16 @@ Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, ‘NeuralPlayground: A Stan
 - 2023 - Pre-Print 
 Clémentine C. J. Dominé*, Marco Pegoraro* et al, ‘Geometric Epitope and Paratope Prediction’
 
-- Accepted Talk Cosyne (2023): Implement an unsupervised point process model for replay detection of motor sequences in the dorsolateral striatum. 
-  Revealed first evidence for off-line consolidation of procedural memory in the dorsolateral striatum.
+- 2023 Accepted Talk Cosyne
+Implement an unsupervised point process model for replay detection of motor sequences in the dorsolateral striatum. 
+Revealed first evidence for off-line consolidation of procedural memory in the dorsolateral striatum.
  Poster: https://drive.google.com/file/d/1lrTJrj3aGA_D3qDV4HNQCPv8NswaA2Qt/view?usp=sharing
  
- - Accepted Poster Cosyne (2023) :Clémentine C. J. Dominé, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models'
+ - 2023 Accepted Poster Cosyne
+Clémentine C. J. Dominé, Rodrigo Carrasco* et al, 'NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models'
 
--  Accepted Neurips (2022) Exact learning dynamics of in Deep Linear Neural Network with Prior Knowledge. 
+-  2022 Accepted Neurips
+  Exact learning dynamics of in Deep Linear Neural Network with Prior Knowledge. 
 Paper: https://openreview.net/forum?id=58ohTfbDth
 
 
