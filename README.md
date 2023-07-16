@@ -6,6 +6,12 @@ I have a master's degree in Theoretical Physics from the University of Mancheste
 
 # 🗞️ Publications and Posters
 
+- 2023 - Cognitive Computational Neuroscience (CCN) Talk  (Top 5%) 
+Clémentine C. J. Dominé*, Rodrigo Carrasco* et al, ‘NeuralPlayground: A Standardised Environment for evaluation of Hippocampus and Entorhinal Cortex Models'
+
+- 2023 - Pre-Print 
+Clémentine C. J. Dominé*, Marco Pegoraro* et al, ‘Geometric Epitope and Paratope Prediction’
+
 - Accepted Talk Cosyne (2023): Implement an unsupervised point process model for replay detection of motor sequences in the dorsolateral striatum. 
   Revealed first evidence for off-line consolidation of procedural memory in the dorsolateral striatum.
  Poster: https://drive.google.com/file/d/1lrTJrj3aGA_D3qDV4HNQCPv8NswaA2Qt/view?usp=sharing
